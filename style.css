@@ -1,1 +1,10 @@
-
+body {background-color: #3efaf7;text-align: justify; font-size:18px;}
+h1 {tex-align: center;background-color:#2FBDA;color:#17313B;}
+h3 {text-aling:justify;color:#1f7a779;}
+b{color:blue;font-size:18px;}
+i{color:blue;font-size:18px;}
+header,footer{background-color:#499CBA;color:#ceeffc;text-align:center;fontt-size:20px;border:black solid 2px;}
+main {background-color:#8ddefc;}
+nav li {text-trasform:uppercase;list-style:none;display:inline;margin-left:10px;text-aling:right;}
+nav a{color:rgb(119,19,250);text-decoration:none;text-align:right;}
+.PRIMEIROPARAGRAFO{text-align:justify;font-size:18px;border:black solid 2px;padding:10px;margin:10px;}
