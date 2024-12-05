@@ -6,24 +6,9 @@ i{color:blue;font-size:20px;}
 header,footer{background-color:#499CBA;color:#ceeffc;text-align:center;fontt-size:20px;border:black solid 2px;}
 main {background-color:#8ddefc;}
 nav li {text-trasform:uppercase;list-style:none;display:inline;margin-left:15px;text-aling:right;}
+margin-left: 10px;text-align:rigth;}
 nav a{color:rgb(119,19,250);text-decoration:none;text-align:right;}
-O equilíbrio químico é um fenômeno que acontece nas reações químicas reversíveis entre reagentes e produtos.
-
-Quando uma reação é direta, está transformando reagentes em produtos. Já quando ela ocorre de maneira inversa, os produtos estão transformando-se em reagentes.
-
-aA espaço mais espaço bB espaço arpão para a direita sobre arpão para a esquerda espaço cC espaço mais espaço dD
-
-Para ocorrer um equilíbrio químico é necessário que:
-
-a temperatura seja constante
-o sistema não tenha trocas com o ambiente
-Quando um ponto de equilíbrio é atingido nas reações reversíveis tem-se:
-
-a velocidade das reações direta e inversa iguais.
-a concentração constante das substâncias presentes na reação.
-O equilíbrio químico é medido por duas grandezas: a constante de equilíbrio e o grau de equilíbrio.
-
-Ele pode ser alterado quando ocorre mudanças de: concentração, temperatura, pressão e uso de catalisadores.{text-align:justify;font-size:18px;border:black solid 2px;padding:10px;margin:10px;}
+.PRIMEIROPARAGRAFO {text-align: justify;font-size: 18px;border: black solid 2px; pading:10px;margin:px;}
 #TITULOIMAGEM{WIDTH:5%,height:5%;}
 #lista01{display:block;tex-align:center;}
 #lista02{display:inline-block;}
